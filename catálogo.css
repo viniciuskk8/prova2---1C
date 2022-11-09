@@ -1,0 +1,50 @@
+body {
+	background-color: #3D0101;
+}
+
+.header {
+	display: inline;
+}
+
+.container1 {
+	background: black;
+	color: #ffffff;
+	padding-bottom: 5%;
+	margin-bottom: 2%;
+}
+
+nav {
+    width: 100%;
+}
+
+nav li {
+	text-align: left;
+	margin-left: 4%;
+	display: inline;
+}
+
+nav a {
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 35px;
+	text-decoration: none;
+}
+
+.container2 {
+	color: #ffffff;
+	font-size: 40px;
+}
+
+.p {
+	margin-bottom: 2%;
+	margin-left: 43%;
+}
+
+.container3 {
+	margin-left: 2%;
+	display: inline;
+}
+
+.imagens {
+	margin-right: 1.85%;
+}
