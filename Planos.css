@@ -1,0 +1,137 @@
+body {
+	background-color: #3D0101;
+}
+
+.header {
+	display: inline;
+}
+
+.container1 {
+	background: black;
+	color: #ffffff;
+	padding-bottom: 5%;
+	margin-bottom: 2%;
+}
+
+nav {
+    width: 100%;
+}
+
+.li {
+	text-align: left;
+	margin-left: 4%;
+	display: inline;
+}
+
+nav a {
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 35px;
+	text-decoration: none;
+}
+
+.planos {
+	font-size: 35px;
+	display: inline;
+}
+
+.planos2 {
+	width: 30%;
+	float: left;
+}
+
+.cardplan {
+	text-align: center;
+	background: white;
+	width: 90%;
+	border-radius: 10px;
+	padding-bottom: 5px;
+	padding-right: 3px;
+	padding-left: 3px;
+}
+
+.cardplan2 {
+	font-size: 25px;
+	color: #105E62;
+}
+
+.cardplan3 {
+	font-size: 22px;
+}
+
+.tamanho {
+	width: 80%;
+	margin-left: 15%;
+	margin-top: 5%;
+}
+
+.preço {
+	font-size: 28px;
+	color: ;
+}
+
+.assine {
+	font-size: 30px;
+	width: 80%;
+	margin: 10%;
+	background: indianred;
+	color: black;
+	border-radius: 10px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.cabeça {
+	font-size: 38px;
+	color: white;
+	padding-left: 12%;
+}
+
+.lista {
+	font-size: 28px;
+	padding-left: 3%;
+}
+
+.Fim {
+	font-size: 40px;
+	margin-top: 40%;
+	padding-top: 2%;
+	padding-left: 5%;
+	color: white;
+	background: black;
+	padding-bottom: 4%;
+}
+
+.Fim2 {
+	font-size: 35px;
+	color: gray;
+	background: black;
+	padding-left: 10%;
+	padding-top: 2%;
+}
+
+.imagemfim {
+	width: 40%;
+}
+
+.Fim3 {
+	font-size: 35px;
+	color: gray;
+	background: black;
+	padding-left: 50%;
+	padding-top: 2%;
+}
+
+.imagemfim2 {
+	width: 70%;
+}
+
+.Fim4 {
+	text-align: center;
+	font-size: 50px;
+	background: black;
+	color: white;
+	padding-top: 4%;
+}

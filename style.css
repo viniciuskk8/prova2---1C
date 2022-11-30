@@ -7,7 +7,7 @@ body{
 }
 
 .tamanho {
-	width: 20%;
+	width: 40%;
 }
 
 nav {
@@ -30,6 +30,7 @@ nav a {
 
 .mexernav {
 	margin-bottom: 15%;
+	width: 50%;
 }
 
 .container {
@@ -69,11 +70,4 @@ strong {
 
 #img1 {
 	width: 100%;
-}
-
-.container3 {
-	position: absolute;
-    top: 140%;
-    left: 45%;
-
 }
