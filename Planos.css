@@ -37,14 +37,14 @@ nav a {
 
 .planos2 {
 	width: 30%;
-	float: left;
+	float: left; <! – Serve para levar todos os elementos forçadamente para a esuqerda ou direita –>
 }
 
 .cardplan {
 	text-align: center;
 	background: white;
 	width: 90%;
-	border-radius: 10px;
+	border-radius: 10px; <! – Serve para arredondar as bordas –>
 	padding-bottom: 5px;
 	padding-right: 3px;
 	padding-left: 3px;

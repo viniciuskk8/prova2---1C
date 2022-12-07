@@ -1,5 +1,5 @@
 body{
-	background-image: url("banner.JPG");
+	background-image: url("banner.JPG"); <! – Esse comando serve para transformar o body do site em uma imagem –>
 }
 
 .caixa {
@@ -46,7 +46,7 @@ nav a {
 
 
 h2 {
-   opacity: 100%;
+   opacity: 100%; <! – Serve para mexer no quão transparente será os elementos da tela –>
    color: #ffffff;
    font-size: 55px;
 }

@@ -26,7 +26,7 @@ body {
 .cardplan {
 	background: white;
 	width: 150%;
-	border-radius: 10px;
+	border-radius: 10px; <! – Serve para arredondar as bordas –>
 	padding-bottom: 5px;
 	padding-right: 3px;
 	padding-left: 3px;
@@ -54,15 +54,11 @@ body {
 	margin: 10%;
 	background: indianred;
 	color: black;
-	border-radius: 10px;
+	border-radius: 10px; <! – Serve para arredondar as bordas –>
 }
 
 a {
 	text-decoration: none;
-}
-
-.cadastro {
-
 }
 
 .cadastro2 {
